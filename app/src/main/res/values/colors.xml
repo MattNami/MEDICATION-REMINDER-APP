@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Medical Palette -->
+    <color name="primary_medical">#00796B</color>
+    <color name="primary_light">#48A999</color>
+    <color name="primary_dark">#004C40</color>
+    <color name="secondary_medical">#26A69A</color>
+    <color name="background_light">#F8F9FA</color>
+    <color name="text_main">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="error_red">#D32F2F</color>
+</resources>
